@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+}
+
+table thead {
+    background-color: #a3a3a3;
+}
+
+table td{
+    border: 3px solid;
+    text-align: center;
+}
